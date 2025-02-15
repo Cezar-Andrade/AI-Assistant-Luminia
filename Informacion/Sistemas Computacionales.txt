@@ -1,0 +1,47 @@
+Objetivo general de la carrera de Ingeniería en Sistemas Computacionales:
+Formar profesionistas líderes con visión estratégica y amplio sentido ético; capaz de diseñar,
+desarrollar, implementar y administrar tecnología computacional para aportar soluciones innovadoras
+en beneficio de la sociedad; en un contexto global, multidisciplinario y sostenible.
+
+Misión de la carrera de Ingeniería en Sistemas Computacionales:
+"Formar profesionistas en el área de Ingeniería en Sistemas Computacionales, transformadores y agentes
+de cambio, que apliquen la tecnología de punta en el campo profesional, basada en estándares
+internacionales de calidad, capaces de identificar y delimitar problemas relacionados con el
+procesamiento de información, la innovación y el desarrollo tecnológico con criterios de
+sustentabilidad para contribuir al desarrollo social, económico, cultural y ecológico de la región y
+el pais."
+
+Visión de la carrera de Ingeniería en Sistemas Computacionales:
+"Ser un programa educativo dinámico, que permita consolidarnos como la mejor opción de la región, que
+responda a los requerimientos locales, nacionales y globales, que tome en consideración los avances y
+tendencias de desarrollo tecnológico, formando profesionistas como agentes de cambio con alto nivel de
+desarrollo profesional."
+
+Perfil de Egreso de la carrera de Ingeniería en Sistemas Computacionales:
+1. Implementa aplicaciones computacionales para solucionar problemas de diversos contextos, integrando
+diferentes tecnologías, plataformas o dispositivos.
+2. Diseña, desarrolla y aplica modelos computacionales para solucionar problemas, mediante la selección
+y uso de herramientas matemáticas.
+3. Diseña e implementa interfaces para la automatización de sistemas de hardware y desarrollo del
+software asociado.
+4. Coordina y participa en equipos multidisciplinarios para la aplicación de soluciones innovadoras en
+diferentes contextos.
+5. Diseña, implementa y administra bases de datos optimizando los recursos disponibles, conforme a las
+normas vigentes de manejo y seguridad de la información.
+6. Desarrolla y administra software para apoyar la productividad y competitividad de las organizaciones
+cumpliendo con estándares de calidad.
+7. Evalúa tecnologías de hardware para soportar aplicaciones de manera efectiva.
+8. Detecta áreas de oportunidad empleando una visión empresarial para crear proyectos aplicando las
+Tecnologías de la Información y Comunicación.
+9. Diseña, configura y administra redes de computadoras para crear soluciones de conectividad en la
+organización, aplicando las normas y estándares vigentes.
+
+Duración de la carrera de Ingeniería en Sistemas Computacionales:
+9 semestres y 1 semestre de residencias profesionales.
+
+Creditos de la carrera de Ingeniería en Sistemas Computacionales:
+La carrera consta de un total de 260 créditos donde 210 créditos son de materias de estructura genérica,
+25 créditos son de materias de especialidad, 10 créditos son de la residencia profesional, 10 créditos
+son del servicio social y 5 créditos son de las actividades complementarias.
+
+Importante tratar de no excederse más de 12 semestres o fallará la carrera entera.

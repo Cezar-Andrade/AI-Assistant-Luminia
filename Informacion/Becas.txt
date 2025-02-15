@@ -1,0 +1,18 @@
+El estudiante universtario tiene a su disposición una selección por tiempo limitado de becas durante
+el transcursos de toda su vida universitaria en el sitio web SUBES donde se pueden solicitar las becas
+conforme las convocatorias salgan.
+
+La escuela es la responsable de subir los datos del estudiante al sitio web SUBES donde el estudiante
+tendrá que activarla y solicitar la beca correspondiente en el sitio web despues de actualizar sus
+datos, es posible que sea necesario que el estudiante tenga que crear su cuenta de SUBES.
+
+Según la beca que seleccione existen reglas, lineamientos y requisitos que se deberán de seguir para
+recibir el beneficio de dichas becas, el procedimiento varia entre las becas, por lo que es necesario
+leer lo que solicitan al momento de seleccionar una beca.
+
+Los resultados de las becas despues de solicitarlas son dadas bajo la fecha estipulada por el
+proveedor de la beca, debe de estar atento en caso de requerir realizar más tramite por la beca como
+la entrega de tarjetas bancarias especiales para distribuir la beca.
+
+Cualquier detalle más no cubierto en este documento, consultar con Servicios Escolares para más
+información acerca de las becas.

@@ -1,0 +1,9 @@
+Mindbox es una plataforma desarrollada para que el alumno pueda gestionar sus calificaciones y trámites
+de reinscripción donde la ficha de pago del mismo se proporciona, además que ahí mismo se hace la
+evaluación docente cada semestre necesario para diversos trámites demás.
+
+De no hacer la evaluación docente cuando se es solicitado, el alumno será sujeto a sanción que deberá
+pagar al momento de reinscribirse.
+
+Todo alumno se le genera una cuenta de Mindbox, deben de acudir al departamento de Servicios Escolares
+en caso de que la contraseña se pierda.

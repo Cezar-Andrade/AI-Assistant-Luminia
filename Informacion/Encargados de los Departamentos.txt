@@ -1,0 +1,27 @@
+Las personas encargadas de los diversos puestos y deparatamentos del TecNM junto a su correo
+electronico son las siguientes:
+
+Dirección: Fadme Peregrina Molina Salomón, dir_costagrande.tecnm.mx
+Subdirección de planeación y vinculación: Miguel Ángel Silva Mondragón, plan_costagrande@tecnm.mx
+Departamento de planeación, programación y presupuestación: Diana Sánchez Radilla, pl_costagrande@tecnm.mx
+Departamento de gestión tecnológica y vinculación: Ameyatzin Rosalía Peña Villegas, vin_costagrande@tecnm.mx
+Departamento de comunicación y difusión: Jesús Hernández Gómez, cyd_costagrande@tecnm.mx
+Departamento de actividades extraescolares: Rogelio Luis Garza Morales, ext_costagrande@tecnm.mx
+Departamento de servicios escolares: Rosendo Tapia Blanco, se_costagrande@tecnm.mx
+Centro de información: Yarely Mercado Torres, ci_costagrande@tecnm.mx
+
+Subdirección académica: María De Lourdes Fierros Montalvo, acad_costagrande@tecnm.mx
+División de estudios profesionales: José Antonio Rendon Carbajal, dep_costagrande@tecnm.mx
+Departamento de ciencias básicas: Eduardo Arizmendi Rivas, cbas_costagrande@tecnm.mx
+Departamento de sistemas y computación: Irving Jesús Sánchez Campos, sc@costagrande.tecnm.mx
+Departamento de metalmecánica: María Magdalena Vejar Chávez, mm@costagrande.tecnm.mx
+Departamento de ciencias de la tierra: Miriam Asenet Galeana Almanza, ct@costagrande.tecnm.mx
+Departamento de ciencias económico administrativas: Felipe López Molina, cead_costagrande@tecnm.mx
+Departamento de desarrollo académico: Sonia Ramos Luna, dda_costagrande@tecnm.mx
+
+Subdirección de servicios administrativos: solo el correo admon_costagrande@tecnm.mx
+Departamento de recursos humanos: Norma Azalia Galán Rueda, rh_costagrande@tecnm.mx
+Departamento de recursos financieros: Idalmis Esther Hernández Álvarez, rf_costagrande@tecnm.mx
+Departamento de recursos materiales y servicios: Silvia Marisol Jimenez Otero, rm_costagrande@tecnm.mx
+Departamento de centro de cómputo: Jesús Epifanio Santander Rivera, cc_costagrande@tecnm.mx
+Departamento de mantenimiento de equipo: Galeana López Eduardo, me@costagrande.tecnm.mx

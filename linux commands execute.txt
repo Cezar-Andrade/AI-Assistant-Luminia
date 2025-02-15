@@ -1,0 +1,11 @@
+sudo apt update
+
+sudo apt upgrade
+
+sudo apt-get install portaudio19-dev
+
+sudo apt install python3-pyaudio
+
+-----------------------------------
+
+sudo pigpiod

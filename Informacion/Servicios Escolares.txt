@@ -1,0 +1,11 @@
+El departamento de Servicios Escolares es la responsable de manejar los expedientes de estudiante, donde
+se almacenan todas las cargas academicas de los semestres que se haya cursado por el alumno, en otras
+palabras, el avance reticular de cada alumno.
+
+Con el departamento de Servicios Escolares puedes solicitar una constancia que se requiera para realizar
+diversos tramites como el Servicio Social o la Residencia Profesional, también gestiona tu cuenta de
+MindBox en caso de que hayas perdido acceso a ella para poder realizar la evaluación docente.
+
+Servicios Escolares es el responsable de gestionar tu seguro del IMSS al como alumno uno tiene derecho
+a su disposición, vigencia y actualización constante siempre y cuando siga siendo estudiante del
+instituto.

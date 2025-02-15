@@ -1,0 +1,7 @@
+pip install speechrecognition==3.11.0
+pip install huggingface_hub==0.23.0
+pip install langchain_huggingface==0.1.1
+pip install langchain_chroma==0.1.4
+pip install langchain_community==0.3.1
+pip install pyaudio==0.2.14
+pip install pygame

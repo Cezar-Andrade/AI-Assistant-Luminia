@@ -1,0 +1,22 @@
+Los departamentos se encuentran distribuidos por el tecnologico de la costa grande en los diferentes
+edificios como se describe a continuación.
+
+En el edificio A se encuentran los departamentos:
+- Dirección y Subdirección General
+- Servicios Escolares
+- Gestión Tecnológica y Vinculación
+- Recursos Financieros
+- División de Estudios Profesionales
+
+En el edificio A también se encuentra la sala de múltiples usos en el segundo piso donde se realizan
+reuniones de mayor importancia.
+
+En el edificio D se encuentra el departamento de Actividades Extraescolares.
+
+En el edificio E se encuentra los departamentos:
+- Desarrollo Acádemico
+- Centro de Cómputo
+- Sistemas y Computación
+
+En el edificio E también se encuentra la sala de audiovisual donde se hacen conferencia y reuniones
+, el club de robotica también esta en el edificio E y el centro de consulta.
