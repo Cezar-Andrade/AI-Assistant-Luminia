@@ -4,12 +4,13 @@ platform = platform.system()
 
 WIDTH, HEIGHT = 800, 600
 FACE_COLOR = (255, 255, 255)
-DEBUG_MODE = True
-USE_TEXT_QUERY = False
-ONLINE_RAG = True
-SERVOS = True
-SERVO_ANGLES_DEBUG_TEXT_FREQUENCY = 120
-IDLE_DIALOG_TIME = 90
+DEBUG_MODE = True # Flag to determinate if print messages on the terminal about how this program operates or not (useful for finding errors)
+USE_TEXT_QUERY = False # Flag to determinate if use text entries on the terminal to use the program or voice through a microphone
+ONLINE_RAG = True # Flag to determinate if use a model online or one downloaded to the computer using resources of the computer
+SERVOS = True # Flag to determinate if send signals to the servo motors to move them
+SERVO_ANGLES_DEBUG_TEXT_FREQUENCY = 120 # Time to determinate the time it takes in seconds to print the angle of the servo motors to the terminal (if debug and servos are True)
+IDLE_DIALOG_TIME = 90 # Time to determinate how many seconds to remain idle before generating a dialog to say and move around so it's active
+
 OUTPUT_DEVICE = "bcm2835 Headphones, bcm2835 Headphones"
 MICROPHONE_DEVICE = "Poly Blackwire 3320 Series: USB Audio"
 CHAT_MODEL = "Qwen/Qwen2.5-Coder-32B-Instruct"
@@ -17,7 +18,7 @@ AUDIO_RECOGNITION_MODEL = "openai/whisper-large-v3-turbo"
 RAG_MODEL_ONLINE = "intfloat/multilingual-e5-large-instruct"
 RAG_MODEL_LOCAL = ""
 TTS_MODEL_PATH = "/voices/es_MX-claude-high"
-HF_TOKEN = "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"
+HF_TOKEN = "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" #Replace with your own key, this key doesn't work, it's deactivated, I could have used enviroment variables but that was annoying to do in my setup for the robot so I did it this way
 
 directorio = os.path.dirname(os.path.realpath(__file__))
 

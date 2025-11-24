@@ -6,6 +6,6 @@ sudo apt-get install portaudio19-dev
 
 sudo apt install python3-pyaudio
 
------------------------------------
+---Need to install pigpiod on python for this next command to run---
 
 sudo pigpiod
